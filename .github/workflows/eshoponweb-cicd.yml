@@ -1,5 +1,6 @@
 name: eShopOnWeb Build and Test
 
+On:[push,pull-request,workflow-dispatch]
 #Triggers (uncomment line below to use it)
 
 
